@@ -8098,7 +8098,7 @@ end
 local root=rootpart1
 pcall(function()
 top_18645.Parent=root
-end)
+
 for _,a in root:GetDescendants() do
 if a:IsA("Beam") then 
 a.Color=cs({
@@ -8133,7 +8133,7 @@ if e:IsA("SpecialMesh") then
 e.VertexColor=v3(im2.ImageColor3.R,im2.ImageColor3.G,im2.ImageColor3.B)
 end
 end
-
+end)
 
 for _,v in CubeModel:GetDescendants() do 
 if v:IsA("ParticleEmitter") then 
