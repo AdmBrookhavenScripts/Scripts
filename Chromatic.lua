@@ -7766,7 +7766,7 @@ Attachment_20269:SetAttribute("AuraInstance", true)
 Attachment_20269.Position = v3(-12.028968,0.000000,0.000000)
 Attachment_20269.Visible = false
 
-
+task.defer(function()
 Trail_18657.Attachment0 = Attachment_18658
 Trail_18657.Attachment1 = Attachment_18656
 Trail_18725.Attachment0 = Attachment_18726
@@ -7982,6 +7982,7 @@ beam2_18815.Attachment0 = bottomrightdown_18808
 beam2_18815.Attachment1 = bottomrightup_18832
 smokeblack_18816.Attachment0 = bottomrightdown_18808
 smokeblack_18816.Attachment1 = bottomrightup_18832
+end)
 task.defer(function()
 local weld=Instance.new("Weld")
 weld.Part0=DDD
