@@ -8048,6 +8048,7 @@ local conn
 local gp=1
 local spin=0 
 local emitthem=0
+task.wait(.5)
 conn=rus.Heartbeat:Connect(function()
 
 if not scriptfolder:FindFirstChild("ChromaticAssets") then
