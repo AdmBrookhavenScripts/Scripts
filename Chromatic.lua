@@ -8062,7 +8062,7 @@ end
 return
 end
 gp+=1
-task.defer(function()
+task.spawn(function()
 
 local Torso=rootpart1
 spin+=1
