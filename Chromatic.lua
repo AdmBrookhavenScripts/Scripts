@@ -7983,7 +7983,7 @@ beam2_18815.Attachment1 = bottomrightup_18832
 smokeblack_18816.Attachment0 = bottomrightdown_18808
 smokeblack_18816.Attachment1 = bottomrightup_18832
 end)
-task.defer(function()
+
 local weld=Instance.new("Weld")
 weld.Part0=DDD
 weld.Part1=HumanoidRoot
@@ -8043,7 +8043,7 @@ if d:IsA("ParticleEmitter") and d.Enabled==true then
 d.Enabled=false
 end
 end
-end)
+
 local conn
 local gp=1
 local spin=0 
