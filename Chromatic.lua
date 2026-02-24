@@ -7983,6 +7983,7 @@ beam2_18815.Attachment1 = bottomrightup_18832
 smokeblack_18816.Attachment0 = bottomrightdown_18808
 smokeblack_18816.Attachment1 = bottomrightup_18832
 
+end)
 local weld=Instance.new("Weld")
 weld.Part0=DDD
 weld.Part1=HumanoidRoot
@@ -8032,7 +8033,6 @@ beam.Transparency=ns({
 Attach[i]={a0, a1}
 BeamTable[i]=beam
 end
-end)
 
 
 
