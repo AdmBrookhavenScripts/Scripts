@@ -7766,7 +7766,7 @@ Attachment_20269:SetAttribute("AuraInstance", true)
 Attachment_20269.Position = v3(-12.028968,0.000000,0.000000)
 Attachment_20269.Visible = false
 
-task.defer(function()
+task.spawn(function()
 Trail_18657.Attachment0 = Attachment_18658
 Trail_18657.Attachment1 = Attachment_18656
 Trail_18725.Attachment0 = Attachment_18726
@@ -7982,7 +7982,6 @@ beam2_18815.Attachment0 = bottomrightdown_18808
 beam2_18815.Attachment1 = bottomrightup_18832
 smokeblack_18816.Attachment0 = bottomrightdown_18808
 smokeblack_18816.Attachment1 = bottomrightup_18832
-end)
 
 local weld=Instance.new("Weld")
 weld.Part0=DDD
@@ -8033,6 +8032,7 @@ beam.Transparency=ns({
 Attach[i]={a0, a1}
 BeamTable[i]=beam
 end
+end)
 
 
 
@@ -8049,7 +8049,7 @@ local gp=1
 local spin=0 
 local emitthem=0
 task.wait(.5)
-conn=rus.Heartbeat:Connect(function()
+conn=rus.PostSimulation:Connect(function()
 
 if not scriptfolder:FindFirstChild("ChromaticAssets") then
 top_18645:Destroy()
