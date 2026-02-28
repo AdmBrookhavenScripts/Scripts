@@ -21418,7 +21418,7 @@ Right_Leg_k351_HumanoidRootPart_Torso_Replace.Parent = Torso_k351_HumanoidRootPa
 
 -- Keyframe 352 (Time: 14.039999961853027)
  keyframe352 = Instance.new("Keyframe")
-keyframe352.Time = 14.039999961853027
+keyframe352.Time = 32.039999961853027
 keyframe352.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -21479,7 +21479,7 @@ Right_Leg_k352_HumanoidRootPart_Torso_Replace.Parent = Torso_k352_HumanoidRootPa
 
 -- Keyframe 353 (Time: 14.079999923706055)
  keyframe353 = Instance.new("Keyframe")
-keyframe353.Time = 14.079999923706055
+keyframe353.Time = 32.079999923706055
 keyframe353.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -21540,7 +21540,7 @@ Right_Leg_k353_HumanoidRootPart_Torso_Replace.Parent = Torso_k353_HumanoidRootPa
 
 -- Keyframe 354 (Time: 14.119999885559082)
  keyframe354 = Instance.new("Keyframe")
-keyframe354.Time = 14.119999885559082
+keyframe354.Time = 32.119999885559082
 keyframe354.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -21601,7 +21601,7 @@ Right_Leg_k354_HumanoidRootPart_Torso_Replace.Parent = Torso_k354_HumanoidRootPa
 
 -- Keyframe 355 (Time: 14.15999984741211)
  keyframe355 = Instance.new("Keyframe")
-keyframe355.Time = 14.15999984741211
+keyframe355.Time = 32.15999984741211
 keyframe355.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -21662,7 +21662,7 @@ Right_Leg_k355_HumanoidRootPart_Torso_Replace.Parent = Torso_k355_HumanoidRootPa
 
 -- Keyframe 356 (Time: 14.199999809265137)
  keyframe356 = Instance.new("Keyframe")
-keyframe356.Time = 14.199999809265137
+keyframe356.Time = 32.199999809265137
 keyframe356.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -21723,7 +21723,7 @@ Right_Leg_k356_HumanoidRootPart_Torso_Replace.Parent = Torso_k356_HumanoidRootPa
 
 -- Keyframe 357 (Time: 14.239999771118164)
  keyframe357 = Instance.new("Keyframe")
-keyframe357.Time = 14.239999771118164
+keyframe357.Time = 32.239999771118164
 keyframe357.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -21784,7 +21784,7 @@ Right_Leg_k357_HumanoidRootPart_Torso_Replace.Parent = Torso_k357_HumanoidRootPa
 
 -- Keyframe 358 (Time: 14.279999732971191)
  keyframe358 = Instance.new("Keyframe")
-keyframe358.Time = 14.279999732971191
+keyframe358.Time = 32.279999732971191
 keyframe358.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -21845,7 +21845,7 @@ Right_Leg_k358_HumanoidRootPart_Torso_Replace.Parent = Torso_k358_HumanoidRootPa
 
 -- Keyframe 359 (Time: 14.319999694824219)
  keyframe359 = Instance.new("Keyframe")
-keyframe359.Time = 14.319999694824219
+keyframe359.Time = 32.319999694824219
 keyframe359.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -21906,7 +21906,7 @@ Right_Leg_k359_HumanoidRootPart_Torso_Replace.Parent = Torso_k359_HumanoidRootPa
 
 -- Keyframe 360 (Time: 14.359999656677246)
  keyframe360 = Instance.new("Keyframe")
-keyframe360.Time = 14.359999656677246
+keyframe360.Time = 32.359999656677246
 keyframe360.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -21967,7 +21967,7 @@ Right_Leg_k360_HumanoidRootPart_Torso_Replace.Parent = Torso_k360_HumanoidRootPa
 
 -- Keyframe 361 (Time: 14.399999618530273)
  keyframe361 = Instance.new("Keyframe")
-keyframe361.Time = 14.399999618530273
+keyframe361.Time = 32.399999618530273
 keyframe361.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22028,7 +22028,7 @@ Right_Leg_k361_HumanoidRootPart_Torso_Replace.Parent = Torso_k361_HumanoidRootPa
 
 -- Keyframe 362 (Time: 14.4399995803833)
  keyframe362 = Instance.new("Keyframe")
-keyframe362.Time = 14.4399995803833
+keyframe362.Time = 32.4399995803833
 keyframe362.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22089,7 +22089,7 @@ Right_Leg_k362_HumanoidRootPart_Torso_Replace.Parent = Torso_k362_HumanoidRootPa
 
 -- Keyframe 363 (Time: 14.479999542236328)
  keyframe363 = Instance.new("Keyframe")
-keyframe363.Time = 14.479999542236328
+keyframe363.Time = 32.479999542236328
 keyframe363.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22150,7 +22150,7 @@ Right_Leg_k363_HumanoidRootPart_Torso_Replace.Parent = Torso_k363_HumanoidRootPa
 
 -- Keyframe 364 (Time: 14.520000457763672)
  keyframe364 = Instance.new("Keyframe")
-keyframe364.Time = 14.520000457763672
+keyframe364.Time = 32.520000457763672
 keyframe364.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22211,7 +22211,7 @@ Right_Leg_k364_HumanoidRootPart_Torso_Replace.Parent = Torso_k364_HumanoidRootPa
 
 -- Keyframe 365 (Time: 14.5600004196167)
  keyframe365 = Instance.new("Keyframe")
-keyframe365.Time = 14.5600004196167
+keyframe365.Time = 32.5600004196167
 keyframe365.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22272,7 +22272,7 @@ Right_Leg_k365_HumanoidRootPart_Torso_Replace.Parent = Torso_k365_HumanoidRootPa
 
 -- Keyframe 366 (Time: 14.600000381469727)
  keyframe366 = Instance.new("Keyframe")
-keyframe366.Time = 14.600000381469727
+keyframe366.Time = 32.600000381469727
 keyframe366.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22333,7 +22333,7 @@ Right_Leg_k366_HumanoidRootPart_Torso_Replace.Parent = Torso_k366_HumanoidRootPa
 
 -- Keyframe 367 (Time: 14.640000343322754)
  keyframe367 = Instance.new("Keyframe")
-keyframe367.Time = 14.640000343322754
+keyframe367.Time = 32.640000343322754
 keyframe367.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22394,7 +22394,7 @@ Right_Leg_k367_HumanoidRootPart_Torso_Replace.Parent = Torso_k367_HumanoidRootPa
 
 -- Keyframe 368 (Time: 14.680000305175781)
  keyframe368 = Instance.new("Keyframe")
-keyframe368.Time = 14.680000305175781
+keyframe368.Time = 32.680000305175781
 keyframe368.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22455,7 +22455,7 @@ Right_Leg_k368_HumanoidRootPart_Torso_Replace.Parent = Torso_k368_HumanoidRootPa
 
 -- Keyframe 369 (Time: 14.720000267028809)
  keyframe369 = Instance.new("Keyframe")
-keyframe369.Time = 14.720000267028809
+keyframe369.Time = 32.720000267028809
 keyframe369.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22516,7 +22516,7 @@ Right_Leg_k369_HumanoidRootPart_Torso_Replace.Parent = Torso_k369_HumanoidRootPa
 
 -- Keyframe 370 (Time: 14.760000228881836)
  keyframe370 = Instance.new("Keyframe")
-keyframe370.Time = 14.760000228881836
+keyframe370.Time = 32.760000228881836
 keyframe370.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22577,7 +22577,7 @@ Right_Leg_k370_HumanoidRootPart_Torso_Replace.Parent = Torso_k370_HumanoidRootPa
 
 -- Keyframe 371 (Time: 14.800000190734863)
  keyframe371 = Instance.new("Keyframe")
-keyframe371.Time = 14.800000190734863
+keyframe371.Time = 32.800000190734863
 keyframe371.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22638,7 +22638,7 @@ Right_Leg_k371_HumanoidRootPart_Torso_Replace.Parent = Torso_k371_HumanoidRootPa
 
 -- Keyframe 372 (Time: 14.84000015258789)
  keyframe372 = Instance.new("Keyframe")
-keyframe372.Time = 14.84000015258789
+keyframe372.Time = 32.84000015258789
 keyframe372.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22699,7 +22699,7 @@ Right_Leg_k372_HumanoidRootPart_Torso_Replace.Parent = Torso_k372_HumanoidRootPa
 
 -- Keyframe 373 (Time: 14.880000114440918)
  keyframe373 = Instance.new("Keyframe")
-keyframe373.Time = 14.880000114440918
+keyframe373.Time = 32.880000114440918
 keyframe373.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22760,7 +22760,7 @@ Right_Leg_k373_HumanoidRootPart_Torso_Replace.Parent = Torso_k373_HumanoidRootPa
 
 -- Keyframe 374 (Time: 14.920000076293945)
  keyframe374 = Instance.new("Keyframe")
-keyframe374.Time = 14.920000076293945
+keyframe374.Time = 32.920000076293945
 keyframe374.Parent = KeyframeSequence
 
 --HumanoidRootPart
@@ -22821,7 +22821,7 @@ Right_Leg_k374_HumanoidRootPart_Torso_Replace.Parent = Torso_k374_HumanoidRootPa
 
 -- Keyframe 375 (Time: 14.960000038146973)
  keyframe375 = Instance.new("Keyframe")
-keyframe375.Time = 14.960000038146973
+keyframe375.Time = 32.960000038146973
 keyframe375.Parent = KeyframeSequence
 
 --HumanoidRootPart
